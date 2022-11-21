@@ -34,3 +34,8 @@ Pull requestler kabul edilir. Bğyğk değişiklikler için lütfen önce neyi d
 *yazı* **stili** ***çalışıyorum***
 ---
 ----------------
+
+öğreniyorum
+1. html
+2. css
+3. javascript
