@@ -17,8 +17,9 @@ Projeyi cloneladıktan sonra visual studyo code programında açınız.
 Linux için:
 
 '''
+html
 cd kodluyoruzilkrepo
-code .
+code.
 '''
 
 ## Contrubuting 
