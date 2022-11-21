@@ -16,12 +16,10 @@ Projeyi cloneladıktan sonra visual studyo code programında açınız.
 
 Linux için:
 
-'''
-html
+```
 cd kodluyoruzilkrepo
 code.
-'''
-
+```
 ## Contrubuting 
 
 Pull requestler kabul edilir. Bğyğk değişiklikler için lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu seçiniz.
