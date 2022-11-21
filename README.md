@@ -26,3 +26,7 @@ Pull requestler kabul edilir. Bğyğk değişiklikler için lütfen önce neyi d
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## görsel ekleme
+
+![Lorem Picsum Gorsel](https://picsum.photos/id/1/200/300)
